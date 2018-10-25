@@ -1,0 +1,52 @@
+{
+  "Almuerzo" : [ {
+    "price" : 10,
+    "type" : "Burger simple",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/burger-queen-75467.appspot.com/o/hamburguesasimple.png?alt=media&token=1626c4cc-1890-4b8d-b030-c87bdce805a0"
+  }, {
+    "price" : 15,
+    "type" : "Burger doble",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/burger-queen-75467.appspot.com/o/hamburguesadoble.png?alt=media&token=ad396a69-937f-4bd6-b621-76454970de74"
+  }, {
+    "price" : 5,
+    "type" : "Papas fritas",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/burger-queen-75467.appspot.com/o/papasfritas.png?alt=media&token=da64f885-3822-4b42-9421-fa36e2154ac3"
+  }, {
+    "price" : 5,
+    "type" : "Onion rings",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/burger-queen-75467.appspot.com/o/onionring.png?alt=media&token=355a283d-b02a-411e-99e1-a3c7509a8762"
+  }, {
+    "price" : 5,
+    "type" : "Agua 500ml",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/burger-queen-75467.appspot.com/o/500mlagua.jpg?alt=media&token=4855f1bb-a050-4f67-94e3-f8c8163a8ece"
+  }, {
+    "price" : 7,
+    "type" : "Agua 750ml",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/burger-queen-75467.appspot.com/o/500mlagua.jpg?alt=media&token=4855f1bb-a050-4f67-94e3-f8c8163a8ece"
+  }, {
+    "price" : 5,
+    "type" : "Gaseosa 500ml",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/burger-queen-75467.appspot.com/o/gaseosa500ml.jpg?alt=media&token=fda1be96-8e20-45c0-8156-0b618ef1ea56"
+  }, {
+    "price" : 10,
+    "type" : "Gaseosa 750ml",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/burger-queen-75467.appspot.com/o/gaseosa750ml.jpg?alt=media&token=de221932-39db-4a86-8a5a-6a99b9cbea2b"
+  } ],
+  "Desayuno" : [ {
+    "price" : 5,
+    "type" : "Café americano",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/burger-queen-75467.appspot.com/o/Coffeeamericano.png?alt=media&token=26bb700e-80be-4f85-82ab-484a6870761d"
+  }, {
+    "price" : 7,
+    "type" : "Café con leche",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/burger-queen-75467.appspot.com/o/cafeleche.png?alt=media&token=3be9ff9e-67d1-4fe4-ab8d-b9659729794c"
+  }, {
+    "price" : 10,
+    "type" : "Sandwich",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/burger-queen-75467.appspot.com/o/sandwich.jpg?alt=media&token=b04dcd53-95b5-454d-99e4-65ec66569d00"
+  }, {
+    "price" : 7,
+    "type" : "Jugo natural",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/burger-queen-75467.appspot.com/o/jugo.jpg?alt=media&token=1549a3e8-f2dc-4742-bc22-dcc602a8a536"
+  } ]
+}

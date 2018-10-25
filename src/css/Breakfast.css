@@ -1,0 +1,33 @@
+#card{
+    display:inline-flex;
+    text-align: center;
+    margin: 10px;
+    margin-left:30px;
+    margin-top: 50px;
+    
+    }
+
+    #card2{
+
+    margin-top: 50px;
+        
+    }
+    
+
+#card3{
+    
+    text-align: left;
+    margin: 2px;
+    margin-right:100px;
+    }
+
+#card4{
+
+    text-align: left;
+    margin: 2px;
+    margin-right:100px;
+    }
+        
+    
+    
+
